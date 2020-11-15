@@ -98,6 +98,7 @@ class Window(QMainWindow):
 
         self.openButton = SharpButton(primaryColor = windowBG, secondaryColor = colorBG)
         self.openButton.setText("Open Journal")
+        self.openButton.clicked.connect(self.open)
         self.memoriesLayout.addWidget(self.openButton, 0, 3, 1, 1)
 
         self.journalsList = QListWidget()
@@ -144,6 +145,12 @@ class Window(QMainWindow):
         self.hachikoMovie = QMovie("img/HachikoHeadTiltGif")
         self.hachikoLabel.setMovie(self.hachikoMovie)
         self.hachikoMovie.start()
+
+    def open(self):
+        currItem = self.journalsList.currentItem()
+        if currItem:
+            with open("journals/" + str(currItem.text()), "r") as jrnlFile:
+                self.journalEdit.setText(jrnlFile.read())
 
 class sentimentThread(QThread):
     def __init__(self):
