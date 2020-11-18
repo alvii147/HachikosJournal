@@ -32,7 +32,7 @@ Similarly, when the user's account is rather negative, **Hachiko** quickly detec
   
 Additionally the user can navigate to past journals and read them to reminisce pleasant memories, or even play around with **Hachiko!**
   
-Watch the [demo video!](https://youtu.be/eLksAlg7IP8)
+Watch the [demo video for HackRU 2020!](https://youtu.be/eLksAlg7IP8)
 
 ## How I built it
 ***Hachiko's Journal*** was built as a desktop application using **PyQt5.** For natural language processing, I utilized the **Google Cloud Language** library to analyze entities and sentiments in the journal's text.
