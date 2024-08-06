@@ -4,7 +4,7 @@
 
 Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood.
 
-![Statistics](depression-stats.jpg)
+![Statistics](img/depression-stats.jpg)
 
 *Nature,* Jonathan Haidt & Nick Allen (2020). *[Scrutinizing the effects of digital technology on mental health](https://www.nature.com/articles/d41586-020-00296-x).*
 
@@ -28,7 +28,7 @@ That's where ***Hachiko's Journal*** aims to make a difference!
 
 Meet **Hachiko!**
 
-![HachikoGif](Hachiko.gif)
+![HachikoGif](img/Hachiko.gif)
 
 **Hachiko,** the Siberian Husky is very friendly and gentle. He's a very good boy and his primary goal is to be by your side during tough times and talk to you through your journal.
 
@@ -38,11 +38,11 @@ Meet **Hachiko!**
 
 In the original version of Hachiko's Journal, submitted as in the Health Hack category of HackRU, the user writes entries into the journal, **Hachiko** reads the journal and appropriately responds with positive remarks and compliments that relate to the content of the journal.
 
-![Hachiko Compliments](hachiko-original-compliment.jpg)
+![Hachiko Compliments](img/hachiko-original-compliment.jpg)
 
 Similarly, when the user's account is rather negative, **Hachiko** quickly detects that and provides motivating remarks for the user.
 
-![Hachiko Motivation](hachiko-original-motivator.jpg)
+![Hachiko Motivation](img/hachiko-original-motivator.jpg)
 
 Additionally the user can navigate to past journals and read them to reminisce pleasant memories, or even play around with **Hachiko!**
 
@@ -64,7 +64,7 @@ streamlit run app.py
 
 Then head over to `http://localhost:8501` to start chatting with Hachiko!
 
-![Hachiko Motivation](hachiko-demo.gif)
+![Hachiko Motivation](img/hachiko-demo.gif)
 
 ## How I built it
 
