@@ -28,7 +28,7 @@ That's where ***Hachiko's Journal*** aims to make a difference!
 
 Meet **Hachiko!**
 
-<img alt="Hachiko" src="img/Hachiko.gif" width=300 />
+<img alt="Hachiko" src="img/Hachiko.gif" width=200 />
 
 **Hachiko,** the Siberian Husky is very friendly and gentle. He's a very good boy and his primary goal is to be by your side during tough times and talk to you through your journal.
 
