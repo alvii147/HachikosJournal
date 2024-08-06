@@ -64,7 +64,7 @@ streamlit run app.py
 
 Then head over to `http://localhost:8501` to start chatting with Hachiko!
 
-![Hachiko Motivation](img/hachiko-demo.gif)
+<img src="img/hachiko-demo.gif" width=300 />
 
 ## How I built it
 
