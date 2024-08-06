@@ -28,7 +28,7 @@ That's where ***Hachiko's Journal*** aims to make a difference!
 
 Meet **Hachiko!**
 
-![HachikoGif](img/Hachiko.gif)
+<img alt="Hachiko" src="img/Hachiko.gif" width=300 />
 
 **Hachiko,** the Siberian Husky is very friendly and gentle. He's a very good boy and his primary goal is to be by your side during tough times and talk to you through your journal.
 
@@ -64,7 +64,7 @@ streamlit run app.py
 
 Then head over to `http://localhost:8501` to start chatting with Hachiko!
 
-<img src="img/hachiko-demo.gif" width=300 />
+![Hachiko Motivation](img/hachiko-demo.gif)
 
 ## How I built it
 
